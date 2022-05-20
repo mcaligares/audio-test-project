@@ -1,0 +1,18 @@
+#app {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+.audio-element {
+  width: 30vw;
+  padding: 10px;
+  text-align: center;
+}
+
+.audio-element-text {
+  width: 70vw;
+  min-height: 100%;
+  font-size: 16px;
+  padding: 10px;
+}
